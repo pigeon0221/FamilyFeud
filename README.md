@@ -1,2 +1,2 @@
 # FamilyFeud
-Arduino Code for a Family Fued style buzzer.
+Arduino Code for a Family Feud style buzzer.
